@@ -1,0 +1,28 @@
+{
+  "slug": "varkeys-kitchen-catering-service-kanjikuzhy",
+  "name": "Varkeys Kitchen Catering Service",
+  "shortName": "Varkeys",
+  "descriptor": "Catering Services",
+  "address": "Building No KGP 463/12, Church Road, near St Marys Church And Parish Hass, Kanjikuzhy, Keralam 685606",
+  "area": "Kanjikuzhy",
+  "city": "Kanjikuzhy",
+  "district": "Idukki",
+  "region": "Kerala",
+  "postalCode": "685606",
+  "geo": {
+    "lat": 9.9549851,
+    "lng": 76.9337061
+  },
+  "mapsLink": "https://maps.google.com/?cid=16264431689205536495",
+  "phone": "+91 94472 95410",
+  "whatsapp": "919447295410",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://varkeys-kitchen-catering-service-ka.vercel.app"
+}
